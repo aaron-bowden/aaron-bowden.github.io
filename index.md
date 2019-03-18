@@ -36,9 +36,10 @@ I have high expectations for my professional development through undertaking thi
 
 ## The Ideal Job: 
 
-https://jobs.apple.com/en-au/details/200023037/software-engineer?team=SFTWR
+(https://jobs.apple.com/en-au/details/200023037/software-engineer?team=SFTWR)
 
 ***Include a screenshot***
+![]
 
 ## What is this position and why is it appealing: 
 
