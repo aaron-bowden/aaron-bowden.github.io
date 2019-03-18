@@ -37,7 +37,7 @@ I have high expectations for my professional development through undertaking thi
 (https://jobs.apple.com/en-au/details/200023037/software-engineer?team=SFTWR)
 
 
-![link](https://github.com/aaron-bowden/aaron-bowden.github.io/blob/master/Software%20Engineer%20-%20Apple%20(AU).pdf)
+![image](https://github.com/aaron-bowden/aaron-bowden.github.io/blob/master/Software%20Engineer%20-%20Apple%20(AU).pdf)
 
 ## What is this position and why is it appealing: 
 
@@ -55,7 +55,7 @@ While I currently have two years experience working for Apple in a technical sup
 
 I am aware that I have a large skills gap between my current position at Apple and my ideal position as a Software Engineer. I am however extremely motivated to obtain the skills, knowledge and experience necessary to apply for this type of position in the future. I believe the fact that I am already employed at Apple will assist me in working towards this position. Being an existing employee, I am privy to company operations and information and can continue to build my experience within the organisation. I aim to utilise my internal networks to identify training programs and mentors that may assist in my professional development. I have spoken with my manager and explained my career ambitions and have received company support to undertake the Bachelor of IT at RMIT. Having a tertiary qualification is a key component of my ideal role, and I believe the skills and knowledge I will learn at university will complement my employment experience to work towards my dream role. 
 
-### Profile: 
+# Profile: 
 
 ## Myer Briggs Results: 
 
