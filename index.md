@@ -99,19 +99,19 @@ A recent study conducted by the cyber security firm Proofpoint highlighted that 
 
 The key features of Project RUFUS are as follows: 
 
-Real-time awareness: Project RUFUS will be a real-time awareness tool that will work to benefit the community. This is not a tool to replace junk mail filters, rather a tool that should be viewed as an enhancement to existing systems. 
+**Real-time awareness:** Project RUFUS will be a real-time awareness tool that will work to benefit the community. This is not a tool to replace junk mail filters, rather a tool that should be viewed as an enhancement to existing systems. 
 
-Education tool: My aim with this project is to have an education tool to help spread awareness of phishing attacks and other online scams. 
+**Education tool:** My aim with this project is to have an education tool to help spread awareness of phishing attacks and other online scams. 
 
-Community based: The project will rely on active participation from the community. The service will be based on members of the community reporting information to the project that will inform the advice and rating system delivered through the software. 
+**Community based:** The project will rely on active participation from the community. The service will be based on members of the community reporting information to the project that will inform the advice and rating system delivered through the software. 
 
-User-friendly: Project RUFUS will aim to be a user-friendly experience. The target audience of this project are those less likely to be confident with technology, such as the elderly. Therefore it is crucial information is delivered in an easy to understand format. 
+**User-friendly:** Project RUFUS will aim to be a user-friendly experience. The target audience of this project are those less likely to be confident with technology, such as the elderly. Therefore it is crucial information is delivered in an easy to understand format. 
 
-Colour coded risk advice: The project will use a basic traffic light colour coding system to advise of risk. Green = safe, the email is safe to open. Yellow = caution, the email is deemed suspicious, exercise caution. Red = stop, the email is known as malicious, delete and do not action. 
+**Colour coded risk advice:** The project will use a basic traffic light colour coding system to advise of risk. Green = safe, the email is safe to open. Yellow = caution, the email is deemed suspicious, exercise caution. Red = stop, the email is known as malicious, delete and do not action. 
 
-Accessible: The project aims to be accessible to multiple users. There will be accessibility options built into this project, such as a voice over option for the visual impaired. The simple colour coding system also aims to overcome language barriers by applying a universal, easy to understand rating system for advice. 
+**Accessible:** The project aims to be accessible to multiple users. There will be accessibility options built into this project, such as a voice over option for the visual impaired. The simple colour coding system also aims to overcome language barriers by applying a universal, easy to understand rating system for advice. 
 
-Not-for-profit service: There will be no cost to install or use RUFUS. The goal of this project is to help people, not to profit from their vulnerability. The project will seek support from tech companies to supply assistance in the form of volunteering people and knowledge to actualise the project. The project will also approach financial institutions (banks etc) for sponsorship of the project. It is likely sponsorship could be gained from financial institutions as the reduction in phishing attacks could see a reduction in financial claims or losses for their clients. 
+**Not-for-profit service:** There will be no cost to install or use RUFUS. The goal of this project is to help people, not to profit from their vulnerability. The project will seek support from tech companies to supply assistance in the form of volunteering people and knowledge to actualise the project. The project will also approach financial institutions (banks etc) for sponsorship of the project. It is likely sponsorship could be gained from financial institutions as the reduction in phishing attacks could see a reduction in financial claims or losses for their clients. 
 
 ## Tools and Technologies:
 
