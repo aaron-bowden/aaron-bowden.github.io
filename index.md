@@ -36,8 +36,8 @@ I have high expectations for my professional development through undertaking thi
 
 (https://jobs.apple.com/en-au/details/200023037/software-engineer?team=SFTWR)
 
-***Include a screenshot***
-![]
+
+![link](https://github.com/aaron-bowden/aaron-bowden.github.io/blob/master/Software%20Engineer%20-%20Apple%20(AU).pdf)
 
 ## What is this position and why is it appealing: 
 
