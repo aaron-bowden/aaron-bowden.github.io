@@ -83,5 +83,54 @@ When forming a team, I would seek to ensure I have a balance of different person
 
 ## Project Idea:
 
-Watch this space, Project RUFUS is coming!
+# PROJECT RUFUS
 
+## Overview:
+
+Project RUFUS is a concept I have imagined while working in my current role at Apple in the Technical Support space. At Apple, I frequently assist people who are unsure if they have been the target of social engineering and scams. Unfortunately in many instances, by the time a vulnerable technology user realises they may have been the target of an online attack, they have already provided sensitive information or financial details to scammers. I am therefore setting out to create a community-based online notification and rating system that will provide advice to users on wether an email is fake or legitimate. Project RUFUS will be delivered as a software application, designed as a plug in to run along side users existing email systems. 
+
+## Motivation:
+
+I am a people-person, who is passionate about helping others with technology and protecting their online security and personal data. In my current role at Apple, I have spoken to numerous clients who have fallen victim to phishing scams. I have often given thought to creating a tool that would assist people to easily identify an unsafe email. Unfortunately many vulnerable technology users have fallen victim to phishing scams, resulting in their sensitive information being abused. For example, financial information being used for financial gain or personal information being misappropriated by cyber criminals for nefarious purposes.  INSERT AN EXAMPLE & REFERENCE. 
+
+A recent study conducted by the cyber security firm Proofpoint highlighted that 83% of respondents in a recent security survey indicated they had experienced a phishing attack in 2018. Of note, this was up 76% from the previous year. Also interesting to note was that the study stated security awareness training had a significant impact on preventing these kinds of attack. INSERT YOUR REFERENCE. By developing Project RUFUS, I hope to spread awareness of phishing attacks and educate vulnerable online users, such as the elderly, parents, middle aged adults, and people with busy lifestyles who may not be aware of current scams or attacks. 
+
+## Description:
+
+The key features of Project RUFUS are as follows: 
+
+Real-time awareness: Project RUFUS will be a real-time awareness tool that will work to benefit the community. This is not a tool to replace junk mail filters, rather a tool that should be viewed as an enhancement to existing systems. 
+
+Education tool: My aim with this project is to have an education tool to help spread awareness of phishing attacks and other online scams. 
+
+Community based: The project will rely on active participation from the community. The service will be based on members of the community reporting information to the project that will inform the advice and rating system delivered through the software. 
+
+User-friendly: Project RUFUS will aim to be a user-friendly experience. The target audience of this project are those less likely to be confident with technology, such as the elderly. Therefore it is crucial information is delivered in an easy to understand format. 
+
+Colour coded risk advice: The project will use a basic traffic light colour coding system to advise of risk. Green = safe, the email is safe to open. Yellow = caution, the email is deemed suspicious, exercise caution. Red = stop, the email is known as malicious, delete and do not action. 
+
+Accessible: The project aims to be accessible to multiple users. There will be accessibility options built into this project, such as a voice over option for the visual impaired. The simple colour coding system also aims to overcome language barriers by applying a universal, easy to understand rating system for advice. 
+
+Not-for-profit service: There will be no cost to install or use RUFUS. The goal of this project is to help people, not to profit from their vulnerability. The project will seek support from tech companies to supply assistance in the form of volunteering people and knowledge to actualise the project. The project will also approach financial institutions (banks etc) for sponsorship of the project. It is likely sponsorship could be gained from financial institutions as the reduction in phishing attacks could see a reduction in financial claims or losses for their clients. 
+
+## Tools and Technologies:
+
+The tools and technologies that I will require to develop Project RUFUS are: 
+
+- Internet access will be required to research and develop the software application, as well as to keep the application running with the most up-to-date information. 
+- A server will be required to store the date required for the plug in to function. 
+- The software will need to be compatible with all major email servers and protocols in order to reach the most amount of people. 
+- There will be a need to experiment with different portable and desktop devices to ensure the software is functioning properly. 
+- Voice over technology will be required for the accessibility options envisaged for the project. 
+
+## Skills required:
+
+Hardware: I will need to learn how to build a cloud-based server that can synchronise with the app/plugin over different platforms. I will need to learn how I can collate the emails the plug in sends to the server with the different rankings be each user. It will also need to be able to send “live” updates to the plug in as well.
+
+Software: An in-mail app plug in would be the best way for my project to reach the intended audience. It needs to be written so it can plug in and work within the inbox and  be easy to see, read and understand. It would need to suitable for all apps and email accounts if possible. 
+
+As I am new to the world of programming, I am yet to learn the skills required to realise my vision in creating Project RUFUS. As I continue my tertiary education, I expect to gain a better understanding of the tools that will be available to me to be able to create this project. I will also gain a better understanding of the resources and costs that will be involved to develop this project. I anticipate there will be many unforeseen obstacles throughout this project, however I will require the skills to be highly adaptable in order to modify elements of my project and ensure its success.
+
+## Outcome :
+
+My desired time-frame for the implementation of Project RUFUS would be 12 months. However, seeing as I am only just embarking on my university studies I think a more reasonable time frame will be 2-3 years. This will allow me to continue to develop the skills and knowledge I need, through university study, to be able to actualise this project. I hope the outcome of this project will be a dramatic reduction in the amount of people impacted my phishing attacks and scams. While I am realistic that I will not be able to stop the cause of the problem, I am confident that I can initiate massive harM reduction by influencing the targets of these attacks. Through timely education and advice, I aim to significantLY minimise the risk to vulnerable internet users. 
