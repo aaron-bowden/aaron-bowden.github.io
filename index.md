@@ -1,6 +1,6 @@
 ## Welcome to my Profile Page!
 
-![](IMG_3795.jpeg)
+![image](IMG_3795.jpeg)
 
 
 ## Personal Information: 
