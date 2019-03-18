@@ -138,16 +138,16 @@ My desired time-frame for the implementation of Project RUFUS would be 12 months
 
 References:
 
-The Personality Page. (2019). Portrait of an ENFJ. [online] Available at: [https://www.personalitypage.com/html/ENFJ.html] (https://www.personalitypage.com/html/ENFJ.html) [Accessed 18 Mar. 2019].
+The Personality Page. (2019). Portrait of an ENFJ. [online] Available at: [https://www.personalitypage.com/html/ENFJ.html](https://www.personalitypage.com/html/ENFJ.html) [Accessed 18 Mar. 2019].
 
-16Personalities. (2019). ENFJ Strengths and Weaknesses | 16Personalities. [online] Available at:[https://www.16personalities.com/enfj-strengths-and-weaknesses] (https://www.16personalities.com/enfj-strengths-and-weaknesses) [Accessed 18 Mar. 2019].
+16Personalities.(2019). ENFJ Strengths and Weaknesses 16Personalities. [online] Available at:[https://www.16personalities.com/enfj-strengths-and-weaknesses](https://www.16personalities.com/enfj-strengths-and-weaknesses) [Accessed 18 Mar. 2019].
 
-Mindtools.com. (2019). VAK Learning StylesUnderstanding How Team Members Learn. [online] Available at: [https://www.mindtools.com/pages/article/vak-learning-styles.htm] (https://www.mindtools.com/pages/article/vak-learning-styles.htm) [Accessed 18 Mar. 2019].
+Mindtools.com. (2019). VAK Learning StylesUnderstanding How Team Members Learn. [online] Available at: [https://www.mindtools.com/pages/article/vak-learning-styles.htm](https://www.mindtools.com/pages/article/vak-learning-styles.htm) [Accessed 18 Mar. 2019].
 
-howtostudy.com. (2019). [online] Available at [https://www.how-to-study.com/study-skills-articles/visual-learner.asp] (https://www.how-to-study.com/study-skills-articles/visual-learner.asp) [Accessed 18 Mar. 2019].
+howtostudy.com. (2019). [online] Available at [https://www.how-to-study.com/study-skills-articles/visual-learner.asp](https://www.how-to-study.com/study-skills-articles/visual-learner.asp) [Accessed 18 Mar. 2019].
 
-Colorcode.com. (2019). [online] Available at: [https://www.colorcode.com/media/cc/bonus/pdf/yellow.pdf] (https://www.colorcode.com/media/cc/bonus/pdf/yellow.pdf) [Accessed 18 Mar. 2019].
+Colorcode.com. (2019). [online] Available at: [https://www.colorcode.com/media/cc/bonus/pdf/yellow.pdf](https://www.colorcode.com/media/cc/bonus/pdf/yellow.pdf) [Accessed 18 Mar. 2019].
 
-Spadafora, A. (2019). Phishing attacks on the rise in 2018. [online] TechRadar. Available at: [https://www.techradar.com/au/news/phishing-attacks-on-the-rise-in-2018] (https://www.techradar.com/au/news/phishing-attacks-on-the-rise-in-2018) [Accessed 18 Mar. 2019].
+Spadafora, A. (2019). Phishing attacks on the rise in 2018. [online] TechRadar. Available at: [https://www.techradar.com/au/news/phishing-attacks-on-the-rise-in-2018](https://www.techradar.com/au/news/phishing-attacks-on-the-rise-in-2018) [Accessed 18 Mar. 2019].
 
 
