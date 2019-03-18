@@ -34,7 +34,7 @@ I have high expectations for my professional development through undertaking thi
 
 ## The Ideal Job: 
 
-[Ideal Job](https://jobs.apple.com/en-au/details/200023037/software-engineer?team=SFTWR)
+[https://jobs.apple.com/en-au/details/200023037/software-engineer?team=SFTWR](https://jobs.apple.com/en-au/details/200023037/software-engineer?team=SFTWR)
 
 or alternatively [here](https://nbviewer.jupyter.org/github/aaron-bowden/aaron-bowden.github.io/blob/master/Software%20Engineer%20-%20Apple%20%28AU%29.pdf)
 
