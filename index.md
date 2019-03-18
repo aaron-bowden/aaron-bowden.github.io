@@ -59,15 +59,15 @@ I am aware that I have a large skills gap between my current position at Apple a
 
 ## Myer Briggs Results: 
 
-My Myer Briggs personality type is ENFJ, known as The Protagonist or The Giver personality. This personality type is a combination of extraverted, intuitive, feeling and judging. According to the Personality Page, ENFJ personalities primary mode of living is focussed externally, dealing with things according to how they make you feel or how they fit into your personal belief system. ENFJ personalities are people focussed and have a special talent for bringing out the best in others. They are focussed on understanding, supporting and encouraging others. (https://www.personalitypage.com/html/ENFJ.html). According to 16 Personalities, the ENFJ’s strengths are being tolerant, reliable, charismatic, altruistic and being natural leaders. Their weaknesses are listed as being overly idealistic, too selfless, too sensitive, fluctuating self esteem and struggling to make tough decisions (https://www.16personalities.com/enfj-strengths-and-weaknesses). 
+My Myer Briggs personality type is ENFJ, known as The Protagonist or The Giver personality. This personality type is a combination of extraverted, intuitive, feeling and judging. According to the Personality Page, ENFJ personalities primary mode of living is focussed externally, dealing with things according to how they make you feel or how they fit into your personal belief system. ENFJ personalities are people focussed and have a special talent for bringing out the best in others. They are focussed on understanding, supporting and encouraging others (The Personaility Page, 2019). According to 16 Personalities, the ENFJ’s strengths are being tolerant, reliable, charismatic, altruistic and being natural leaders. Their weaknesses are listed as being overly idealistic, too selfless, too sensitive, fluctuating self esteem and struggling to make tough decisions (16 Personailities, 2019). 
 
 ## Learning Style Results:
 
-My learning style is visual learning. According to Mind Tools, a visually dominate learner absorbs and retains information better when it is presented in pictures, diagrams and charts (https://www.mindtools.com/pages/article/vak-learning-styles.htm). According to howtostudy.com, visual learners learn best by using tools such as creating graphic organisers, including illustrations, using highlighter pens to colour code information, and studying in a place that is free from visual distractions (https://www.how-to-study.com/study-skills-articles/visual-learner.asp). 
+My learning style is visual learning. According to Mind Tools, a visually dominate learner absorbs and retains information better when it is presented in pictures, diagrams and charts (Mind Tools, 2019). Visual learners learn best by using tools such as creating graphic organisers, including illustrations, using highlighter pens to colour code information, and studying in a place that is free from visual distractions (How to Study, 2019). 
 
 ## Colour Code Personality Profile Results:
 
-My Colour Code personality type is yellow. According to Colour Code, yellow personalities are motivated primarily by fun. They are optimistic people who believe in others. They are charismatic and find it easy to relate to people of all ages. Colour Code notes that yellows are great as work colleagues as they build moral and are not intimidated by new ideas or new challenges. They are noted for being very creative and great verbal communicators. Their weaknesses are committing to long term projects, often starting more projects than they successfully complete. They prefer short term goals (https://www.colorcode.com/media/cc/bonus/pdf/yellow.pdf). 
+My Colour Code personality type is yellow. According to Colour Code, yellow personalities are motivated primarily by fun. They are optimistic people who believe in others. They are charismatic and find it easy to relate to people of all ages. Colour Code notes that yellows are great as work colleagues as they build moral and are not intimidated by new ideas or new challenges. They are noted for being very creative and great verbal communicators. Their weaknesses are committing to long term projects, often starting more projects than they successfully complete. They prefer short term goals (Color Code, 2019). 
 
 ## What do the results of these tests mean for you? 
 
@@ -75,7 +75,7 @@ My test results gave me a greater understanding of who I am as a person, what my
 
 ## How do you think these results may influence your behaviour in a team? 
 
-My personal testing shows I am an excellent team player. As a people person and a people pleaser, I thrive in team based environments. I actively listen to other people’s ideas and motivate and encourage others to fulfil their potential. My natural role in a team would be to initiate and champion creative processes while promoting strong team communication and diversity of ideas. Through completing my personal testing, I have also identified some of my weaknesses. I am aware that I can be disorganised and may struggle to make tough decisions. I am also aware that I can struggle to commit to long term projects. These are weaknesses I would keep in mind when forming a team. 
+My personal testing shows I am an excellent team player. As a people-person and a people-pleaser, I thrive in team based environments. I actively listen to other people’s ideas and motivate and encourage others to fulfil their potential. My natural role in a team would be to initiate and champion creative processes while promoting strong team communication and diversity of ideas. Through completing my personal testing, I have also identified some of my weaknesses. I am aware that I can be disorganised and may struggle to make tough decisions. I am also aware that I can struggle to commit to long term projects. These are weaknesses I would keep in mind when forming a team. 
 
 ## How should you take this into account when forming a team? 
 
@@ -91,9 +91,9 @@ Project RUFUS is a concept I have imagined while working in my current role at A
 
 ## Motivation:
 
-I am a people-person, who is passionate about helping others with technology and protecting their online security and personal data. In my current role at Apple, I have spoken to numerous clients who have fallen victim to phishing scams. I have often given thought to creating a tool that would assist people to easily identify an unsafe email. Unfortunately many vulnerable technology users have fallen victim to phishing scams, resulting in their sensitive information being abused. For example, financial information being used for financial gain or personal information being misappropriated by cyber criminals for nefarious purposes.  INSERT AN EXAMPLE & REFERENCE. 
+I am a people-person, who is passionate about helping others with technology and protecting their online security and personal data. In my current role at Apple, I have spoken to numerous clients who have fallen victim to phishing scams. I have often given thought to creating a tool that would assist people to easily identify an unsafe email. Unfortunately many vulnerable technology users have fallen victim to phishing scams, resulting in their sensitive information being abused. For example, financial information being used for financial gain or personal information being misappropriated by cyber criminals for nefarious purposes. 
 
-A recent study conducted by the cyber security firm Proofpoint highlighted that 83% of respondents in a recent security survey indicated they had experienced a phishing attack in 2018. Of note, this was up 76% from the previous year. Also interesting to note was that the study stated security awareness training had a significant impact on preventing these kinds of attack. INSERT YOUR REFERENCE. By developing Project RUFUS, I hope to spread awareness of phishing attacks and educate vulnerable online users, such as the elderly, parents, middle aged adults, and people with busy lifestyles who may not be aware of current scams or attacks. 
+A recent study conducted by the cyber security firm Proofpoint highlighted that 83% of respondents in a recent security survey indicated they had experienced a phishing attack in 2018. Of note, this was up 76% from the previous year. Also interesting to note was that the study stated security awareness training had a significant impact on preventing these kinds of attacks (Spadafora, 2018). By developing Project RUFUS, I hope to spread awareness of phishing attacks and educate vulnerable online users, such as the elderly, parents, middle aged adults, and people with busy lifestyles who may not be aware of current scams or attacks. 
 
 ## Description:
 
@@ -109,7 +109,7 @@ The key features of Project RUFUS are as follows:
 
 **Colour coded risk advice:** The project will use a basic traffic light colour coding system to advise of risk. Green = safe, the email is safe to open. Yellow = caution, the email is deemed suspicious, exercise caution. Red = stop, the email is known as malicious, delete and do not action. 
 
-**Accessible:** The project aims to be accessible to multiple users. There will be accessibility options built into this project, such as a voice over option for the visual impaired. The simple colour coding system also aims to overcome language barriers by applying a universal, easy to understand rating system for advice. 
+**Accessability:** The project aims to be accessible to multiple users. There will be accessibility options built into this project, such as a voice over option for the visual impaired. The simple colour coding system also aims to overcome language barriers by applying a universal, easy to understand rating system for advice. 
 
 **Not-for-profit service:** There will be no cost to install or use RUFUS. The goal of this project is to help people, not to profit from their vulnerability. The project will seek support from tech companies to supply assistance in the form of volunteering people and knowledge to actualise the project. The project will also approach financial institutions (banks etc) for sponsorship of the project. It is likely sponsorship could be gained from financial institutions as the reduction in phishing attacks could see a reduction in financial claims or losses for their clients. 
 
@@ -131,6 +131,23 @@ Software: An in-mail app plug in would be the best way for my project to reach t
 
 As I am new to the world of programming, I am yet to learn the skills required to realise my vision in creating Project RUFUS. As I continue my tertiary education, I expect to gain a better understanding of the tools that will be available to me to be able to create this project. I will also gain a better understanding of the resources and costs that will be involved to develop this project. I anticipate there will be many unforeseen obstacles throughout this project, however I will require the skills to be highly adaptable in order to modify elements of my project and ensure its success.
 
-## Outcome :
+## Outcome:
 
 My desired time-frame for the implementation of Project RUFUS would be 12 months. However, seeing as I am only just embarking on my university studies I think a more reasonable time frame will be 2-3 years. This will allow me to continue to develop the skills and knowledge I need, through university study, to be able to actualise this project. I hope the outcome of this project will be a dramatic reduction in the amount of people impacted my phishing attacks and scams. While I am realistic that I will not be able to stop the cause of the problem, I am confident that I can initiate massive harM reduction by influencing the targets of these attacks. Through timely education and advice, I aim to significantLY minimise the risk to vulnerable internet users. 
+
+
+References:
+
+The Personality Page. (2019). Portrait of an ENFJ. [online] Available at: https://www.personalitypage.com/html/ENFJ.html [Accessed 18 Mar. 2019].
+
+16Personalities. (2019). ENFJ Strengths and Weaknesses | 16Personalities. [online] Available at: https://www.16personalities.com/enfj-strengths-and-weaknesses [Accessed 18 Mar. 2019].
+
+Mindtools.com. (2019). VAK Learning StylesUnderstanding How Team Members Learn. [online] Available at: https://www.mindtools.com/pages/article/vak-learning-styles.htm [Accessed 18 Mar. 2019].
+
+howtostudy.com. (2019). [online] Available at https://www.how-to-study.com/study-skills-articles/visual-learner.asp [Accessed 18 Mar. 2019].
+
+Colorcode.com. (2019). [online] Available at: https://www.colorcode.com/media/cc/bonus/pdf/yellow.pdf [Accessed 18 Mar. 2019].
+
+Spadafora, A. (2019). Phishing attacks on the rise in 2018. [online] TechRadar. Available at: https://www.techradar.com/au/news/phishing-attacks-on-the-rise-in-2018 [Accessed 18 Mar. 2019].
+
+
