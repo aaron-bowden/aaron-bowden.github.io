@@ -133,12 +133,12 @@ As I am new to the world of programming, I am yet to learn the skills required t
 
 ## Outcome:
 
-My desired time-frame for the implementation of Project RUFUS would be 12 months. However, seeing as I am only just embarking on my university studies I think a more reasonable time frame will be 2-3 years. This will allow me to continue to develop the skills and knowledge I need, through university study, to be able to actualise this project. I hope the outcome of this project will be a dramatic reduction in the amount of people impacted my phishing attacks and scams. While I am realistic that I will not be able to stop the cause of the problem, I am confident that I can initiate massive harM reduction by influencing the targets of these attacks. Through timely education and advice, I aim to significantLY minimise the risk to vulnerable internet users. 
+My desired time-frame for the implementation of Project RUFUS would be 12 months. However, seeing as I am only just embarking on my university studies I think a more reasonable time frame will be 2-3 years. This will allow me to continue to develop the skills and knowledge I need, through university study, to be able to actualise this project. I hope the outcome of this project will be a dramatic reduction in the amount of people impacted my phishing attacks and scams. While I am realistic that I will not be able to stop the cause of the problem, I am confident that I can initiate massive harm reduction by influencing the targets of these attacks. Through timely education and advice, I aim to significantly minimise the risk to vulnerable internet users. 
 
 
 References:
 
-The Personality Page. (2019). Portrait of an ENFJ. [online] Available at: https://www.personalitypage.com/html/ENFJ.html [Accessed 18 Mar. 2019].
+The Personality Page. (2019). Portrait of an ENFJ. [online] Available at: [https://www.personalitypage.com/html/ENFJ.html]https://www.personalitypage.com/html/ENFJ.html [Accessed 18 Mar. 2019].
 
 16Personalities. (2019). ENFJ Strengths and Weaknesses | 16Personalities. [online] Available at: https://www.16personalities.com/enfj-strengths-and-weaknesses [Accessed 18 Mar. 2019].
 
