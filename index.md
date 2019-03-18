@@ -24,7 +24,7 @@ I have been working for Apple for the past two years. In my current role, I prov
 
 ## Why RMIT: 
 
-For sometime I have considered enrolling in tertiary studies to expand my career prospects and enhance my understanding of IT. Given I live in Sydney and have a busy life managing full time work, family and travel, it was important to me that I could have the flexibility of studying online. I did some research though Open Universities Australia and discovered the program offered by RMIT. The course appealed to me as it purports to teach a desirable combination of theory and technical skills. I was also drawn to RMIT because of its reputation for excellence. I have heard through word of mouth that other students have had positive experience studying this course. 
+For sometime I have considered enrolling in tertiary studies to expand my career prospects and enhance my understanding of IT. Given I live in Sydney and have a busy life managing full time work, family and travel, it was important to me that I could have the flexibility of studying online. I did some research though Open Universities Australia and discovered the program offered by RMIT. The course appealed to me as it purports to teach a desirable combination of theory and technical skills. I was also drawn to RMIT because of its reputation for excellence. I have heard through word of mouth that other students have had a positive experience studying this course. 
 
 
 
