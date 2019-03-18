@@ -1,20 +1,18 @@
 ## Welcome to my Profile Page!
 
+![](IMG_3795.jpeg)
 
 
 ## Personal Information: 
 
-![](https://github.com/aaron-bowden/aaron-bowden.github.io/blob/master/IMG_3795.jpeg)
-
-
-Name: Aaron Bowden
-Student Number: S3778882
-Email Address: s3778882@student.rmit.edu.au
-Nationality: Australian 
-Education: NSW School Certificate, Diploma of International Retail Travel and a Diploma of Business Management
-Languages Spoken: English
-Fun Fact: I am a snowboarder and scuba diver 
-Favourite Sport: Formula 1 
+- Name: Aaron Bowden
+- Student Number: S3778882 
+- Email Address: s3778882@student.rmit.edu.au
+- Nationality: Australian 
+- Education: NSW School Certificate, Diploma of International Retail Travel and a Diploma of Business Management
+- Languages Spoken: English
+- Fun Fact: I am a snowboarder and scuba diver 
+- Favourite Sport: Formula 1 
 
 ## Interest in IT: 
 
