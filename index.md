@@ -20,11 +20,11 @@ I have always had a curious mind and strong sense of imagination. I developed a 
 
 ## Experience in IT: 
 
-I have been working for Apple for the past two years. In my current role, I provide technical support to clients from around the world. I have developed advanced communication skills as well as a sophisticated understanding of troubleshooting and diagnostics, allowing me to explain complex technical issues to to non-technical persons. My work mostly takes place over the phone with the use of tools such as screen sharing to guide clients through their technical issues. While working for Apple, I have completed a number of job specific training courses to qualify me to provide technical support across a suite of Apple products, focussing on software. I have also completed a variety of other courses at Apple in areas such as compliance, privacy and security. 
+I have been working for Apple for the past two years. In my current role, I provide technical support to clients from around the world. I have developed advanced communication skills as well as a sophisticated understanding of troubleshooting and diagnostics, allowing me to explain complex technical issues to non-technical persons. My work mostly takes place over the phone with the use of tools such as screen sharing to guide clients through their technical issues. While working for Apple, I have completed a number of job specific training courses to qualify me to provide technical support across a suite of Apple products, focussing on software. I have also completed a variety of other courses at Apple in areas such as compliance, privacy and security. 
 
 ## Why RMIT: 
 
-For sometime I have considered enrolling in tertiary studies to expand my career prospects and enhance my understanding of IT. Given I live in Sydney and have a busy life managing full time work, family and travel, it was important to me that I could have the flexibility of studying online. I did some research though Open Universities Australia and discovered the program offered by RMIT. The course appealed to me as it purports to teach a desirable combination of theory and technical skills. I was also drawn to RMIT because of its reputation for excellence. I have heard through word of mouth that other students have had a positive experience studying this course. 
+For sometime I have considered enrolling in tertiary studies to expand my career prospects and enhance my understanding of IT. Given I live in Sydney and have a busy life managing full time work, family and travel, it was important to me that I could have the flexibility of studying online. I did some research through Open Universities Australia and discovered the program offered by RMIT. The course appealed to me as it purports to teach a desirable combination of theory and technical skills. I was also drawn to RMIT because of its reputation for excellence. I have heard through word of mouth that other students have had a positive experience studying this course. 
 
 
 
@@ -118,7 +118,7 @@ The key features of Project RUFUS are as follows:
 The tools and technologies that I will require to develop Project RUFUS are: 
 
 - Internet access will be required to research and develop the software application, as well as to keep the application running with the most up-to-date information. 
-- A server will be required to store the date required for the plug in to function. 
+- A server will be needed to store the data required for the plug in to function. 
 - The software will need to be compatible with all major email servers and protocols in order to reach the most amount of people. 
 - There will be a need to experiment with different portable and desktop devices to ensure the software is functioning properly. 
 - Voice over technology will be required for the accessibility options envisaged for the project. 
